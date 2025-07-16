@@ -12,3 +12,9 @@ Driven by curiosity and a passion for innovation, I actively pursue opportunitie
 
 
 *Open to collaboration and excited to contribute to pioneering initiatives in technology.*
+### 🖥️ Tech Stack
+
+- Python
+- Java
+- C++
+- Flutter
